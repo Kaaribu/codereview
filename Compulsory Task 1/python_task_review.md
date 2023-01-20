@@ -13,7 +13,7 @@ The algorithm is good. However, there may still be room for improvement. It's wo
 
 
 ### Style
-Indentation could also be improved. Remember, indentation in Python is very crucial and so if done incorrectly, it can induce errors. You can visit the following link to read up on this: https://www.w3schools.com/python/gloss_python_indentation.asp. Also, adding some comments to explain the logic and the use of the dictionary. Overall, I'm please with with effort. 
+Indentation could also be improved. Remember, indentation in Python is very crucial and so if done incorrectly, it can induce errors. You can visit the following link to read up on this: https://www.w3schools.com/python/gloss_python_indentation.asp. Also, try adding some comments to explain the logic and the use of the dictionary. Overall, I'm please with the effort. 
 
 
 ### Documentation
