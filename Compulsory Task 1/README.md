@@ -6,38 +6,42 @@ The sorted() method returns a sorted list of the specified iterable object.
 The join() method takes all items in an iterable and joins them into one string.
 The values() method returns a view object. The view object contains the values of the dictionary, as a list.
 
-### Getting Started
+## Getting Started
 These instructions will show you how to use the solution in your code.
 
-### Prerequisites
+## Prerequisites
 Python 3.x
 
-### Installing
+## Installing
 Clone this repository to your local machine
 Navigate to the cloned repository
 Run the following command to run the code:
 python anagram_grouping.py
 
-#### Input
+### Input
 The solution takes an array of strings as input. The strings in the array should consist of lowercase English letters.
 
-#### Output
+### Output
 The solution returns a list of lists, where each list contains anagrams.
 
-### Example
+## Example
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 
 Output:
 [["bat"], ["nat", "tan"], ["ate", "eat", "tea"]]
 
-### Efficiency
+## Efficiency
 The use of defaultdict reduces the time complexity of checking if the key already exists in the dictionary and creating a new key.
 
-### Built With
+## Built With
 Python - The programming language used
 
-### Authors
-Karabo Masalesa - Initial work - https://github.com/Kaaribu/codereview
+## Credits
 
+- Author: Karabo Masalesa - [My Github link](https://github.com/Kaaribu)
+
+## Repository
+
+https://github.com/Kaaribu/codereview
 
